@@ -8,4 +8,4 @@ steps:
     cloudFoundry:
       org: '921faaa6-cd7b-4565-8492-072753c916ce'
       space: 'dev'
-      credentialsId: '88d86622-04c6-4505-b850-8df74b206c8d'
+      credentialsId: 'CF_CREDENTIALSID'
