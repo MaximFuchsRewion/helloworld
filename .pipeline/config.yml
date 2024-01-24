@@ -6,6 +6,6 @@ steps:
     deployTool: 'mtaDeployPlugin'
     deployType: 'standard'
     cloudFoundry:
-      org: 'TÜV Rheinland Service GmbH #003_kymatest-fndq0vl6'
+      org: '921faaa6-cd7b-4565-8492-072753c916ce'
       space: 'dev'
       credentialsId: 'CF_CREDENTIALSID'
